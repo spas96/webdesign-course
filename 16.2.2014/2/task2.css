@@ -1,0 +1,30 @@
+body {
+	background-color: none;
+	color: #ebebeb;
+}
+
+.header, .footer {
+	background-color: #1e4f8a;
+}
+
+.content {
+	background-color: #3e4f8a;
+}
+
+.main {
+	margin: 0 auto;
+}
+
+.gallery {
+	overflow: hidden;
+	background-color: green;
+}
+
+.gallery ul li {
+	float: left;
+}
+
+img {
+	width: 200px;
+}
+
